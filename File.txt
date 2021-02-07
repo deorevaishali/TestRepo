@@ -1,13 +1,14 @@
 hello world...
 
-change 1:- to check moodification in tracked 
+change 1:-> to check moodification in tracked 
 
-change 2:- to fix bug1
+change 2:-> to fix bug1
 
-change 3:- to fix bug2, 3 way merging
+change 3:-> to fix bug2, 3 way merging
 
-change 4:- by team mate for WI5, 3-way merging
+change 4:-> by team mate for WI5, 3-way merging 
 
 change 5:- by teammate for WI6, rebasing
 
+change 6:-> for enhancement1 to check rebase
 
