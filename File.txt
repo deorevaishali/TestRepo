@@ -13,3 +13,5 @@ change 5:- by teammate for WI6, rebasing
 change 6:-> for enhancement1 to check rebase
 
 change 7:-> to test Stash for WI7 is in progress
+
+change 8:-> to test push for WI8 from local master to remote master
