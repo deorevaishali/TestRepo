@@ -1,23 +1,23 @@
 hello world...
 
-change 1:-> to check moodification in tracked 
+change 1:-> To check moodification in tracked 
 
-change 2:-> to fix bug1
+change 2:-> To fix bug1
 
-change 3:-> to fix bug2, 3 way merging
+change 3:-> To fix bug2, 3 way merging
 
-change 4:-> by team mate for WI5, 3-way merging 
+change 4:-> By team mate for WI5, 3-way merging 
 
-change 5:- by teammate for WI6, rebasing
+change 5:- By teammate for WI6, rebasing
 
-change 6:-> for enhancement1 to check rebase
+change 6:-> For enhancement1 to check rebase
 
-change 7:-> to test Stash for WI7 is in progress
+change 7:-> To test Stash for WI7 is in progress
 
-change 8:-> to test push for WI8 from local master to remote master
+change 8:-> To test push for WI8 from local master to remote master
 
-change 9:-> to test pull operation from remote master to local master
+change 9:-> To test pull operation from remote master to local master
 
-change 10:-> change for bug3 on remote master by teammate to test remote
+change 10:-> Change for bug3 on remote master by teammate to test remote
 
-change 10:-> local master to test rebase for CR2 
+change 11:-> Local master to test rebase for CR2 
