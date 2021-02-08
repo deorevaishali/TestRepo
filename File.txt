@@ -18,3 +18,4 @@ change 8:-> to test push for WI8 from local master to remote master
 
 change 9:-> to test pull operation from remote master to local master
 
+change 10:-> change for bug3 on remote master by teammate to test remote
